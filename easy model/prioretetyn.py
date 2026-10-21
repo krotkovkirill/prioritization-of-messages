@@ -56,7 +56,7 @@ def classify_message():
 
 
 window = tk.Tk()
-window.title("Priorityzation of messages")
+window.title("Prioritityn")
 window.geometry("600x300")
 
 message_label = tk.Label(window, text="Введите сообщение:")
